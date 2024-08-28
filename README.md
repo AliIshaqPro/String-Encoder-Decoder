@@ -1,4 +1,4 @@
-String Encoder-Decoder
+#String Encoder-Decoder
 
 This C++ project implements a string encoding and decoding mechanism using a complex mapping of characters to strings. The program converts a given input string into a complex encoded format and can decode it back to its original form. The mapping of characters includes special symbols, numbers, and both uppercase and lowercase letters.
 Features
@@ -25,8 +25,6 @@ Hello World!
 
 Encoded Output:
 
-ruby
-
 #*91@v*9WgH!4XrL9!*3g2o7X7L3!9gX2$o
 
 Decoded Output:
@@ -39,7 +37,7 @@ How to Use
 
     bash
 
-git clone https://github.com/your-username/string-encoder-decoder.git
+git clone https://github.com/AliIshaqPro/string-encoder-decoder.git
 
 Navigate into the project directory:
 
